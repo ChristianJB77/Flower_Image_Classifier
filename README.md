@@ -4,6 +4,10 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 ## File overview:
 
+### Jupyter notetbook for concept development:
+- Image Classifier Project.ipynb: Neural network classifier training concept and validation
+
+### Python files for command line operation:
 - utility.py:   Utility code for data loading and processing
 - save_load.py: Save and load function for trained model's checkpoints
 - train.py:     Training of new ntwork architectures, classifier might be necessary to be adapted for other network than VGG
